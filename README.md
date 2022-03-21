@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingOfTheEnd
+- 👋 Hi, I’m Sebastian Reynolds
 - 👀 I’m interested in Minecraft Server Development
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Minecraft Server Development
